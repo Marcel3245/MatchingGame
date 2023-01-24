@@ -1,0 +1,11 @@
+D:\Programowanie\My Programs\Matching_Game\bin\Debug\Matching_Game.exe.config
+D:\Programowanie\My Programs\Matching_Game\bin\Debug\Matching_Game.exe
+D:\Programowanie\My Programs\Matching_Game\bin\Debug\Matching_Game.pdb
+D:\Programowanie\My Programs\Matching_Game\obj\Debug\Matching_Game.csproj.AssemblyReference.cache
+D:\Programowanie\My Programs\Matching_Game\obj\Debug\Matching_Game.csproj.SuggestedBindingRedirects.cache
+D:\Programowanie\My Programs\Matching_Game\obj\Debug\Matching_Game.Form1.resources
+D:\Programowanie\My Programs\Matching_Game\obj\Debug\Matching_Game.Properties.Resources.resources
+D:\Programowanie\My Programs\Matching_Game\obj\Debug\Matching_Game.csproj.GenerateResource.cache
+D:\Programowanie\My Programs\Matching_Game\obj\Debug\Matching_Game.csproj.CoreCompileInputs.cache
+D:\Programowanie\My Programs\Matching_Game\obj\Debug\Matching_Game.exe
+D:\Programowanie\My Programs\Matching_Game\obj\Debug\Matching_Game.pdb
